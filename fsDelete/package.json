@@ -1,0 +1,13 @@
+{
+  "name": "fsdelete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fsUnlink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fsUnlink.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
